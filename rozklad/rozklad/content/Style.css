@@ -1,0 +1,116 @@
+﻿body {
+
+}
+
+.head{
+  color: #fff;
+  background-color: #ee6e73;
+  width: 100%;
+  line-height: 56px;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+}
+
+.top-in{
+    margin-top: 9px;
+}
+
+.brand-lnk{
+    color: #fff;
+}
+
+.enter-link{
+    height: 76px;
+}
+
+.day{
+    color: #fff;
+    margin-left: auto;
+    padding-right: 10px;
+    left: auto;
+    right: auto;
+    font-size:20px;
+}
+
+.empty{
+    width: 100%;
+    height: 100px;
+    background-color: #e6e6e6;
+    border-bottom: 1px solid #c0c0c0;
+}
+
+.full{
+    padding-top: 1px;
+    position: relative;
+    width: 100%;
+    height: 100px;
+    border-bottom: 1px solid #c0c0c0;
+    border-right: 1px solid #c0c0c0;
+    border-left: 1px solid #c0c0c0;
+}
+
+.lab{
+    background-color: #fbc02d;
+    border-right: 0;
+    border-left:0;
+}
+
+.lec{
+    background-color:#87bf9b;
+    border-right: 0;
+    border-left:0;
+}
+
+.pract{
+    background-color: #26a69a;
+    border-right: 0;
+    border-left:0;
+}
+
+.week{
+    margin-top: 100px;
+}
+
+.muted{
+    opacity: 0.5;
+}
+
+.aud{
+    position: absolute;
+    right: 10px;
+    bottom: 5px;
+    color: #fff;
+}
+
+.les{
+    font-weight:500;
+    display: block;
+    margin-left: 15px;
+    margin-top:9px;
+}
+
+.prep:hover{
+    text-decoration: underline;
+}
+
+.aud:hover{
+    text-decoration:underline;
+}
+
+.prep{
+    position: absolute;
+    bottom: 25px;
+    left: 15px;
+    color: #fff;
+    font-weight: 100;
+}
+
+.footer{
+    margin-top:100px;
+    color: #fff;
+}
+
+.foot{
+    
+    margin-bottom:0;
+    padding-bottom: 15px;
+}
